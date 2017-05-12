@@ -658,7 +658,7 @@ Features Slider
 .features-bg {
     position: relative;
     min-height: 400px;
-    background: url('../img/img-pbm.jpg') no-repeat center center;
+    background: url('../img/doigt.png') no-repeat center center;
     background-size: cover;
 }
 .features-img {
@@ -671,7 +671,7 @@ Features Slider
     position: relative;
     padding: 11% 100px 10% 100px;
     height: 400px;
-    background-color: #3F6184;
+    background-color: #bc0c2b;
 }
 .features-slider ul {
     margin: 0;
@@ -776,7 +776,7 @@ blockquote .logo-quote {
 Showcase
 ========================================================================== */
 .showcase {
-    background: url('../img/showcase-bg-fixed-01.jpg') no-repeat center center fixed;
+    background: url('../img/bandeverte.png') no-repeat center center fixed;
     background-size: cover;
 }
 .showcase h1 {
@@ -789,22 +789,7 @@ Showcase
     margin-bottom: 25px;
     color: #fff;
 }
-.device {
-    position: absolute;
-    top: -60px;
-    left: 20%;
-    min-height: 676px;
-    width: 359px;
-    background: url('../img/iphone-skeleton.png') no-repeat center center;
-}
-.device-content {
-    position: absolute;
-    top: 115px;
-    left: 56px;
-    width: 247px;
-    height: 445px;
-    background: rgba(0, 0, 0, 0.3);
-}
+
 .device-content img {
     width: 247px;
     height: 445px;
@@ -812,7 +797,7 @@ Showcase
 .showcase-wrap {
     position: relative;
     padding: 100px 0;
-    min-height: 600px;
+    min-height: 100px;
 }
 .showcase-slider ul {
     margin: 0;
