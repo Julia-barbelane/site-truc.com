@@ -783,11 +783,12 @@ Showcase
     margin: 0 0 20px 0;
     color: #fff;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 35px;
 }
 .showcase p {
     margin-bottom: 25px;
     color: #fff;
+    font-size: 15px;
 }
 
 .device-content img {
@@ -917,13 +918,13 @@ Download Now
 ========================================================================== */
 .download {
     padding: 120px 0;
-    background-color: #3f6184;
+    background-color: #bbc30b;
 }
 .download h1 {
     margin: 0 0 15px 0;
     color: #fff;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 /* ==========================================================================
