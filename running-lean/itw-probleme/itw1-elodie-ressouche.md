@@ -1,7 +1,7 @@
 *Date : 27 janvier 2017*
 
 # Informations de contact
-Prénom et nom - Elodie Ressouches
+Prénom et nom - Elodie Ressouches  
 Email : elores@gmail.com
 
 # DATA
