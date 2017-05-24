@@ -4,7 +4,7 @@ description: Les interviews problèmes nous ont permis de valider les problèmes
 Les interviews solutions nous permettent de valider qu'on est pas à côté de la plaque, que les solutions qu'on propose répondent bien à des problèmes, vérifier la proposition unique de valeur, la métaphore et le prix.
 ---
 
-# MÉTHODOLOGIE INTERVIEWS PROBLÈMES 
+# MÉTHODOLOGIE INTERVIEWS SOLUTIONS 
 
 # Infos pratiques
 - Interview les 3 types d"'utilisateurs types"
@@ -49,8 +49,8 @@ NB : réponses courtes type : oui / non / 50
 - Comment valorises-tu ce qui te rend unique dans ton domaine (comunication, stratégie de publication…) ? 
 
 # Histoire des problèmes (2min) - Pour vérifier (again) le bon alignement avec les personnes interviewées
-Raconter l’histoire que vit un de nos early adopter.
-Exemple : “Léa a décidé de montrer sa boîte parceque c’était un super moyen pour elle de se mettre au service de ses valeurs tout en gagnant sa vie. Elle veut que son projet ait à minima zéro impact négatif à mxima que de l’impact positif. Elle a monté son projet pour contribuer puis elle s’est retrouvé embarquée dans le business et les contraintes des incubateurs et concour de freelance/dév entreprise qu’elle a renconté. Petit à petit, son intention première, les valeurs de son projet se sont retrouvé un peu trop bas sous la pile des contraintes entreprenariale. Aujourd’hui elle ne sait plus trop qu’est-ce que ces fameuses valeurs. Elle a dû mal à les définir. Elle ne sait même plus trop comment se présenter. Quand elle le fait c’est très bâteau et ça parle beaucoup de ce qu’elle vend au lieu de parler ce pourquoi elle a décidé de vendre. En plus elle aimerait utiliser le média de la vidéo pour se présenter mais quitte à investir autant que le message soit bien aligné, qu’il est du sens et que l’image soit belle. Pour tout ça elle n’a aucune compétence.”  
+Raconter l’histoire que vit un de nos early adopter.  
+Exemple : “*Léa a décidé de montrer sa boîte parceque c’était un super moyen pour elle de se mettre au service de ses valeurs tout en gagnant sa vie. Elle veut que son projet ait à minima zéro impact négatif à mxima que de l’impact positif. Elle a monté son projet pour contribuer puis elle s’est retrouvé embarquée dans le business et les contraintes des incubateurs et concour de freelance/dév entreprise qu’elle a renconté. Petit à petit, son intention première, les valeurs de son projet se sont retrouvé un peu trop bas sous la pile des contraintes entreprenariale. Aujourd’hui elle ne sait plus trop qu’est-ce que ces fameuses valeurs. Elle a dû mal à les définir. Elle ne sait même plus trop comment se présenter. Quand elle le fait c’est très bâteau et ça parle beaucoup de ce qu’elle vend au lieu de parler ce pourquoi elle a décidé de vendre. En plus elle aimerait utiliser le média de la vidéo pour se présenter mais quitte à investir autant que le message soit bien aligné, qu’il est du sens et que l’image soit belle. Pour tout ça elle n’a aucune compétence.*”  
 
 Question : Est-ce que cette histoire résonne avec toi ? Quels points matchent pas trop ?  
 
