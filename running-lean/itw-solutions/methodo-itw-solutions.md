@@ -1,4 +1,3 @@
-
 ---
 title: Méthodologie - Les interviews solutions
 description: Les interviews problèmes nous ont permis de valider les problèmes que les entrepreneurs rencontraient réellement (cf Méthodologie - Les interviews problèmes) à partir de ça, on fabriqué des solutions.
