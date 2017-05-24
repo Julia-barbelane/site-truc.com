@@ -1,7 +1,7 @@
 *Date : 20 mai* 
 
 # Informations de contact
-Prénom et nom : Xavier Gorse
+Prénom et nom : Xavier Gorse  
 Email : xavier.gorse@elao.com
 
 # DATA
