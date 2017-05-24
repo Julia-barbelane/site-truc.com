@@ -5,7 +5,7 @@ Prénom et nom : Michael Basange
 Email : michael.basange@gmail.com
 
 # DATA
-**Vérifier qu’on est les bonnes personnes : **
+**Vérifier qu’on est les bonnes personnes :**
 - Es-tu salarié ou indépendant ? indépendant
 - As-tu des associés ? non
 - Quelle est l’innovation sociale de ton projet ? créer du lien entre l’urbain et la campagne
