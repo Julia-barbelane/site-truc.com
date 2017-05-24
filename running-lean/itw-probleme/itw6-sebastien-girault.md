@@ -27,17 +27,17 @@ Email : sebastien.girault@oasiscitadine.fr
 
 **Problèmes n°1**
 - Tu n'as pas les compétences pour réaliser mes vidéos de com
-Commentaires :
+Commentaires :  
 - aucune connaissance.
 
 **Problèmes n° 2**
 -	Tu ne sais pas présenter ton projet autrement que par l’offre ou le service ou le problème auquel il répond
-Commentaires :
+Commentaires :  
 - Aimerait bien en effet savoir comment le présenter différemment, voire même quelle en serait la valeur ajoutée. Est tout de même un peu dubitatif. 
 
 **Problèmes n° 3**
 -	Tu ne sais pas vraiment en quoi tu es une professionnel inspirant dans ton domaine d’activité
-Commentaires :
+Commentaires :  
 - Ne sait pas vraiment, si ce n’est la particularité de son parcours (à contre emploi de son activité pro actuelle : il sort d’une école de commerce et développe un projet lié à l’agriculture urbaine). Peut être que son parcours atypique pourrait être un argument inspirant pour la mise en valeur de son projet. 
 
 # NOTES
