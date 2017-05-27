@@ -6,7 +6,7 @@
 - Vérifier qu’il ne sait pas vraiment en quoi il est une professionnel inspirant dans ton domaine d’activité : *oui, mais est en train de travailler sur le sujet, ne sais pas si c'est pertinent pour elle du coup*
 
 
-# Validation que ça réponds aux problèmes :  
+# Validation que ça répond aux problèmes :  
 - Tu ne sais pas vraiment en quoi tu es une professionnel inspirant dans ton domaine d’activité - *oui mais est en train de travailler sur le sujet...*
 - Tu ne sais pas présenter ton projet autrement que par l’offre ou le service ou le problème auquel il répond. *YES*
 - Tu n'as pas les compétences pour réaliser mes vidéos de com. *Pas intéressée par le média vidéo*
