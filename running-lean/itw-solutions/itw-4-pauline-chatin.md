@@ -21,6 +21,15 @@ je vois de quoi il s'agit alros que la vidéo, j'ai galérée" était curieuse d
 - Mot "Parcours" ++ ("j'aime l'idée qu'on voit que c'est un accompagnement)
 - Nom du projet "VIF" ++
 - Ne semble pas avoir compris que c'était différent du travail que pouvait faire un incubateur traditionnel
+- si le choix lui était possible, elle apprécierait pouvoir disposer d'un module au choix, plutôt que les 3.
+- Le terme de parcours dans le titre d'accroche, lui donne une impression de travail long et chronophage, et donc aurait tendance à ne pas vouloir s'investir. Peur que cela soit trop onéreux du à la longueur du parcours.
+- Trouve pertinent la complémentarité des compétences que l'on propose dans le cadre e notre offre. Rassurant pour elle.
+- chacun son métier, ses compétences, son expertise. Elle préfère faire appel à des pro, plutôt que de le faire elle-même. Si elle devait se retoruver à faire une vidéo seule, elle ne le ferait tout simplement pas. pas envie, pas le temps.
+- Aujou'dhui, réaliser une nouvelle vidéo de vigne de cocagne lui parait intéressant, pour montrer que le projet à avancer, qu'il est soutenu. Moyen de tenir au courant sa communuaté du développement en cours, de les informer au fur et à mesure.
+- elle maitrise déjà ce qui est de l'ordre de son identité / histoire / patte, ainsi que les valerus qu'elle porte. Par contre, ressent le besoin d'être accompagné dans quelque chose d'ordre technique. 
+- Le terme d'accompagnement dans la phrase d'accroche est rassurant pour elle, elle ne va pas être déposséder de son message. ce n'est pas comme si on lui proposait une presta froide de communciation. Nous sommes prés d'elle, nous l'accomagnons dans la réalistaion de cette vidéo.
+- a aimé le terme de "posture de communication"
+
 
 
 # Prix
