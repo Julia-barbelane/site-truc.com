@@ -9,7 +9,13 @@ Ok interviewée pour les problèmes
 - Tu n'as pas les compétences pour réaliser mes vidéos de com. 
 
 # Notes :
--
+- mettre la vidéo en bas "on voit le résultat après avoir compris comment ça se déroulait"
+- a adoré le ditre parcours = cheminmenent avec étape et équipe + construire = fabriquer
+- les petits descriptions dans le rouge = n'ont pas de réelle valeurs ajoutée + titres pourrait-être plus pertinent/impactant
+- mettre nos biographies, nos photos --> avait envie de savoir ce qu'on a fait avant, qui on est et ce qu'on fait
+- rajouter des numéros de siret
+- a pas kiffé les photos du bas + les mots clés
+- 
 
 # Prix
 
