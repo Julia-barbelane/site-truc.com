@@ -20,20 +20,16 @@ et pas encore de s'éloigner des ses valeurs.
 - A adoré la vidéo de Lise
 - S'interroge sur l'impact d'une vidéo, comment mesure. 
 - Au jour d'aujoud'hui, elle n'imaginerai pas faire une vidéo de com sans passer par notre projet (sauf si celle d'opa fait l'affaire).
-Elle pense que nous mettons en avant le why, c'est ce qui fait notre valeur ajoutée.
-On devrait mettre dans le parcours la vidéo de Sinek, pour pouvoir faire saisir plus finement l'importance du why.
-Peur que tous les outils que l'on propose lui fasse perdre un peu le fil de son projet, que nous soyons trop dans le tatonnement, et non pas dans l'opérationnel.
-Un e boite à outils, avec le choix de tel ou tel outils pour solutionner tel ou tel bespoin lui parait pertinent.
-Concerant le prix, elle a conscience du travail amont et aval, ainsi que de la difficulté pour des auto entrpreneurs de joindre les deux bouts financièrement, mais pour 
-l'instant elle ne peut pas mettre 1400€.
-Se demande si une vidéo de ce type peut relancer la viralité de ses supports com : site / facebook.
-Npus propose de se mettre ne lien avec LIse Gallois
-Nous interpelle sur le fait que nous ne devrions pas à avoir peur de ne pas avoir tester notre projet (pb de légitimité), et d'aller en parler à des personnes comme Pierre Alzingre.
-
-
-
+- Elle pense que nous mettons en avant le why, c'est ce qui fait notre valeur ajoutée.
+- On devrait mettre dans le parcours la vidéo de Sinek, pour pouvoir faire saisir plus finement l'importance du why.
+- Peur que tous les outils que l'on propose lui fasse perdre un peu le fil de son projet, que nous soyons trop dans le tatonnement, et non pas dans l'opérationnel.
+- Une boite à outils, avec le choix de tel ou tel outils pour solutionner tel ou tel bespoin lui parait pertinent.
+- Concerant le prix, elle a conscience du travail amont et aval, ainsi que de la difficulté pour des auto entrpreneurs de joindre les deux bouts financièrement, mais pour l'instant elle ne peut pas mettre 1400€.
+- Se demande si une vidéo de ce type peut relancer la viralité de ses supports com : site / facebook.
+- Nous propose de se mettre ne lien avec Lise Gallois
+- Nous interpelle sur le fait que nous ne devrions pas à avoir peur de ne pas avoir tester notre projet (pb de légitimité), et d'aller en parler à des personnes comme Pierre Alzingre.
 
 
 # Prix
-1400€ (non, trop élevé dna sle contexte de lancement de son projet)
+1400€ (non, trop élevé dans le contexte de lancement de son projet)
 
