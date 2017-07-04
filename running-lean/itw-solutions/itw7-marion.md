@@ -15,6 +15,8 @@ Ok interviewée pour les problèmes
 - elle est sur un projet de lieu, du coup ele apsirerait à ce qu'on démontre par l'image le lieux et ce qui s'y passe
 - a posé la question du binômage
 - curieuse de savoir quels seraient les outils, les méthodes employées pour travailler sur le fond
+- propose de faire cette vidéo en équipe , car pour elle c'est plus pertinent au stade où en est son projet.
+- 
 - 
 
 # Prix
