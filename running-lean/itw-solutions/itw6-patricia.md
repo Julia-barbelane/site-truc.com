@@ -16,10 +16,16 @@ Ok interviewée pour les problèmes
 - il ne s'agit pas de reconnecter aux valeurs mais de structurer le propos, mettre des mots sur les valeurs
 - Je sais de quoi il faut parler mais pas comment le faire. 
 - Ne pourrais pas faire une vidéo sans ça, car ça répond exactement à ce à quoi elle aspire.
+- Le site manque de contenu pragmatique et chiffré, qui lui permettrait de mieux envisager ce qu'elle pourrait faire avec.
+- la vidéo lui semble professionnelle, elle voit la touche de JUlia. Ca lui donne confiance.
+- a besoin de savoir ce qu'elle va pouvoir faire avec cette vidéo.
+- le terme de "parcours" lui donne une image négative au premier abord. Cependant, elle comprend que c'est quelque chose qui dure un temps précis et qui vaut le coup.
+- Elle ne sait pas quels mots utiliser et les termes à employer pour parler des valeurs du projet qu'elle porte.Toujours peur que son trvail soit vu comme quelque chose de futile et de superficiel.
 
 
 
 # Prix
 1000 € (ne les payerai pas, surtout si elle n'a pas les critères qui garantissent un résultat).
+par contre elle paierait 1500€ si elle avait la certitude qu'elle pourrait impacter sa communauté rapidement. 
 
 
