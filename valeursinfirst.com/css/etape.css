@@ -1,0 +1,10 @@
+.etape-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.etape-container div {
+  min-width: 700px;
+  max-width: 900px;
+}
