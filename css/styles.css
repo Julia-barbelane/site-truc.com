@@ -845,6 +845,39 @@ Screenshots Intro
 .bio p {
   font-size: 16px;
 }
+.bios {
+  /*text-align: center;*/
+}
+.bios .col-md-6 {
+  padding: 0;
+}
+.bios-img {
+  margin-bottom: 30px;
+}
+.bios-img img {
+  height: 300px;
+}
+.bios div:first-child,
+.bios div:first-child .bios-img {
+  text-align: right;
+}
+.bios div:last-child,
+.bios div:last-child .bios-img {
+  text-align: left;
+}
+.bios div:first-child .bios-img {
+  margin-right: -15px;
+}
+.bios div:last-child .bios-img {
+  margin-left: -15px;
+}
+.bios div:first-child {
+  padding-right: 15px
+}
+}
+.bios div:last-child {
+  padding-left: 15px
+}
 /* ==========================================================================
 Screenshots
 ========================================================================== */
