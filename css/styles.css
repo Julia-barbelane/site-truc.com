@@ -620,6 +620,7 @@ section.video i {
 section.video h1 {
     font-weight: 400;
     font-size: 20px;
+    color: #000;
 }
 section.video {
     padding: 60px 0;
@@ -639,6 +640,9 @@ section.video a:hover i, section.video a:focus i {
 /* ==========================================================================
 Custom Slider Controls (Flickity)
 ========================================================================== */
+.flickity-page-dots {
+  display: none;
+}
 .flickity-page-dots .dot {
     width: 13px;
     height: 13px;
@@ -711,7 +715,7 @@ Features Slider
 Features List
 ========================================================================== */
 .features-list {
-    padding: 130px 0
+    padding: 0px 0
 }
 .features-list h1 {
     margin: 0 0 10px 0;
@@ -742,6 +746,9 @@ Features List
 }
 .feature-icon i {
     color: #4e9ba3
+}
+.etapes {
+  padding : 100px 0;
 }
 
 /* ==========================================================================
@@ -826,7 +833,13 @@ Screenshots Intro
     margin-bottom: 25px;
     color: #778899;
 }
-
+#program {
+    padding: 0px 0 80px 0;
+}
+.bio{
+  padding: 50px 0 100px 0;
+  background-color: #fff;
+}
 /* ==========================================================================
 Screenshots
 ========================================================================== */
