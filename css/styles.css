@@ -836,9 +836,14 @@ Screenshots Intro
 #program {
     padding: 0px 0 80px 0;
 }
-.bio{
+.bio {
   padding: 50px 0 100px 0;
   background-color: #fff;
+  font-size: 16px;
+  color: #333;
+}
+.bio p {
+  font-size: 16px;
 }
 /* ==========================================================================
 Screenshots
