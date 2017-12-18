@@ -22,7 +22,7 @@ Un modèle d’arbre pour « *se faire une idée* »
 
 NB : de l’étape 1 à l’étape 4, on va tenter d’accorder les violons de chacun sur la définition des valeurs qui émergent. Pour ça, chaque désaccord quand au choix de telle ou telle valeurs on créé l’occasion de réfléchir à la définition. 
 
-[https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/methode-arbrifest-trouver-le-commun.png]
+![Trouver le commun](https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/methode-arbrifest-trouver-le-commun.png)
 
 **Etape 7** :on sélectionne 4 principes fondamentaux pour chacune des valeurs choisies.  
 *Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut, prendre les décisions par soi-même, ne pas être obligé de prendre la parole, pouvoir faire ce que j’ai envie.*
@@ -32,4 +32,4 @@ NB : de l’étape 1 à l’étape 4, on va tenter d’accorder les violons de c
 *Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut → Action = utilisation d’outils de d’organisation qui propose toujours 2 choix → outils de mesure = à la fin du séjour, moins de 3 jeunes sur 10 ont eu un sentiment d’obligation.*
 
 Des exemples en image 
-[https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/19691261_237510126761743_1234784999_n.jpg]
+![arbrifest du projet VIF](https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/19691261_237510126761743_1234784999_n.jpg)
