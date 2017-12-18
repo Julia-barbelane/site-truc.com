@@ -25,11 +25,11 @@ NB : de l’étape 1 à l’étape 4, on va tenter d’accorder les violons de c
 ![Trouver le commun](https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/methode-arbrifest-trouver-le-commun.png)
 
 **Etape 7** :on sélectionne 4 principes fondamentaux pour chacune des valeurs choisies.  
-*Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut, prendre les décisions par soi-même, ne pas être obligé de prendre la parole, pouvoir faire ce que j’ai envie.*
+*Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut, prendre les décisions par soi-même, ne pas être obligé de prendre la parole, pouvoir faire ce que j’ai envie.*  
 **Etape 8** :Traduire en action. On propose des actions concrètes qui permettent de mettre en application les principes tout droits issus des valeurs (c’est pô beau ça ?). Pour ça on note à nouveau nos idées d’actions concrètes sur des post-it.  
-*Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut → Action = utilisation d’outils de d’organisation qui propose toujours 2 choix d’activité aux participants.*
+*Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut → Action = utilisation d’outils de d’organisation qui propose toujours 2 choix d’activité aux participants.*  
 **Etape 9** : On sélectionne 1 action concrète par principe. Idéalement on fabrique aussi des moyens de mesurer la réussite d’une action (dans le temps ou en quantité).  
 *Exemple : Valeur = Liberté → Principe = pouvoir aller où on veut → Action = utilisation d’outils de d’organisation qui propose toujours 2 choix → outils de mesure = à la fin du séjour, moins de 3 jeunes sur 10 ont eu un sentiment d’obligation.*
 
-Des exemples en image 
+Exemple avec l'Arbrifest du projet VIF
 ![arbrifest du projet VIF](https://github.com/Julia-barbelane/valeursinfirst.com/blob/master/documentation/arbrifest/19691261_237510126761743_1234784999_n.jpg)
