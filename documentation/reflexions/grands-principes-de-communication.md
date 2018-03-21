@@ -18,7 +18,7 @@ ce qu'on propose pour faire en sorte que la communication soit celle d'une parol
 ### Dire la vérité, toute la vérité
 - Ne pas omettre d'information
 - Etre transparent sur les informations
-- Ne pas faire de généralités (tout le monde, on aspire tous...)
+- Ne pas faire de généralités (tout le monde, on aspire tous, les jeunes ont...) mais privilégier des histoires racontées qui illustrent une expérience vécue
 - Faire preuve de simplicité (éviter c'est très simple, c'est puissant...)
 
 ### Parler vrai
