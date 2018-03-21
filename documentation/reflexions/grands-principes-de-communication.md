@@ -1,6 +1,6 @@
 
 # Grands principes de communication
-Pour faire en sorte que la communication la plus "impeccable" possible...
+Pour faire en sorte que la communication soit la plus "impeccable" possible...
 
 ## Posture 
 ### S'appuyer sur les valeurs
