@@ -54,7 +54,7 @@ ce qu'on propose pour faire en sorte que la communication soit celle d'une parol
 - rédaction simple sous forme de question/réponse ça fonctionne bien
 - écrire à la personne et non à 100 personnes "je me suis sentie impliquée"
 - s'excuser d'avance si le message tombe mal
-- dire "pourquoi elle" sincèrement (soit ça t'intéresse, soit tu 
+- dire "pourquoi elle" sincèrement (soit ça t'intéresse, soit tu espère qu'il ou elle est centre nerveux sur le sujet et qu'il ou elle connaît des personnes que ça pourrai intéresser...)
 
 
 
