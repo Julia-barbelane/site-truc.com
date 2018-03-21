@@ -3,11 +3,10 @@
 ## L'expérience tournage 
 **Constat** : beaucoup de stress devant la caméra, sorte de figement, les personnes sont contractées, tendues, elles cherchent à contrôler leur propos, leur posture... Résultat : connexion à leur énergie naturelle difficile, ce qui empêche de rencontrer vraiment la personne.
 
-**Intention de la démarche**
-Rendre l'expérience de tournage la plus confortable possible pour se connecter plus vite avec l'authenticité.
+**Intention de la démarche** : rendre l'expérience de tournage la plus confortable possible pour se connecter plus vite avec l'authenticité.
 
 **Questions à poser**
-- Comment tu l'as vécu de passer devant la caméra ? 
+- Comment as-tu vécu de passer devant la caméra ? 
 - Qu'est-ce qui a été super chouette ?
 - Qu'est-ce qui a été difficile ?
 - Qu'est-ce que Julia a mise en place qui t'a aidé ? 
