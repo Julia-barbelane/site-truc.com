@@ -50,6 +50,11 @@ ce qu'on propose pour faire en sorte que la communication soit celle d'une parol
 ## Utiliser sa propre sémentique
 - conserver son langage, ses mots au lieu de chercher à les traduire pour qu'ils soient accessibles au plus grand nombre. L'idée est de se présenter dans sa propre culture, avec son identité propre, pas de la lisser pour qu'elle passe partout. Il s'agirait donc de prendre le temps qu'il faut pour éclaicir au maximum son intention histoire d'être en mesure d'assumer son parti pris et de pouvoir apporter plus de clarté si une personne qui n'est pas en lien avec ta culture te demande d'en savoir plus...
 
+## Contacter les personnes simplement (article ju en cours)
+- rédaction simple sous forme de question/réponse ça fonctionne bien
+- écrire à la personne et non à 100 personnes "je me suis sentie impliquée"
+- s'excuser d'avance si le message tombe mal
+- dire "pourquoi elle" sincèrement (soit ça t'intéresse, soit tu 
 
 
 
