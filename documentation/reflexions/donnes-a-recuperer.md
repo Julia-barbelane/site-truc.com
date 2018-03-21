@@ -15,3 +15,5 @@
 - Quels conseils tu donnerais pour que ce smoment soit plus facile/joyeux/confortable ? 
 - Qu'est-ce qui a fonctionné et que tu conseillerai d'investir ?
 
+## Data
+"j'aniticpe l'image de moi"
