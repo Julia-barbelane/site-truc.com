@@ -35,6 +35,12 @@ ce qu'on propose pour faire en sorte que la communication soit celle d'une parol
 - Partager gratuitement des outils semble être une bonne façon de valoriser ses compétences
 - Créer du contenu qui informe de ce qui est en train de se passer
 
+### Formulation 
+- ce qui me plaît
+- ce qui me parle
+- j'adore quand/que
+
+
 ### S'adresser aux personnes avec qui on aimerait travailler
 - contacter les quelques bonnes personnes pour lesquelles le projet est pertinent au lieu de vouloir toucher un maximum de personnes
 
