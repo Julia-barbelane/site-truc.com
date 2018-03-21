@@ -17,3 +17,4 @@
 
 ## Data
 "j'aniticpe l'image de moi"
+"être debout si proche de la caùéra c'est compliqué"
