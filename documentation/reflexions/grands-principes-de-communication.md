@@ -37,6 +37,9 @@
 ### Suivre son intuition
 - parler de ce qui nous enthousiasme et nous fait vibrer, tant pis si c'est pas inscrit dans une stratégie prédéfinie
 
+## Utiliser sa propre sémentique
+- conserver son langage, ses mots au lieu de chercher à les traduire pour qu'ils soient accessibles au plus grand nombre. L'idée est de se présenter dans sa propre culture, avec son identité propre, pas de la lisser pour qu'elle passe partout. Il s'agirait donc de prendre le temps qu'il faut pour éclaicir au maximum son intention histoire d'être en mesure d'assumer son parti pris et de pouvoir apporter plus de clarté si une personne qui n'est pas en lien avec ta culture te demande d'en savoir plus...
+
 
 
 
