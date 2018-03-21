@@ -1,11 +1,11 @@
 
 # Grands principes de communication
-ce qu'on propose pour faire en sorte que la communication soit celle d'une parole soit la plus "impeccable" possible.
+Pour faire en sorte que la communication la plus "impeccable" possible...
 
 ## Posture 
 ### S'appuyer sur les valeurs
 - Identifier les valeurs importantes du projet et les utiliser comme phare pour faire ses choix
--
+
 
 ### Viser la congruence
 - Faire ce je dis, ce que je défends et si ce n'est pas le cas faire preuve de transparence
