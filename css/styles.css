@@ -836,6 +836,11 @@ Screenshots Intro
 #program {
     padding: 0px 0 80px 0;
 }
+
+#program .container{
+    padding-bottom: 40px;   
+}
+
 .bio {
   padding: 50px 0 100px 0;
   background-color: #fff;
